@@ -134,7 +134,7 @@
         "acceptable-explanation-5": "To help us set these waps more specifically, you should now consider how many <i>other</i> participants would potentially approve these options as well.",
         "-step-3-title": "Estimated approval by others",
         "estimates-intro": "Please estimate for each option which percentage of participants would potentially approve it.<br/>If you are unsure, better give a slightly lower estimate.",
-        "estimates-explanation-1": "We'll now go through all acceptable options. For each of them, please decide how much approval by other participants is needed before <b>you yourself</> would approve the option.",
+        "estimates-explanation-1": "We'll now go through all acceptable options. For each of them, please decide how much approval by other participants is needed before <b>you yourself</b> would approve the option.",
         "estimates-explanation-2": "This might be the same percentage that you estimated just now. But you could also say that you would approve an option only if even more participants approve than you estimated..",
         "-step-4-title": "From when on would you approve?",
         "thresholds-intro": "For the option <b><i>“{{option}}”</i></b> you have estimated that <b>{{estimate}}%</b> of the participants would potentially approve it.",
